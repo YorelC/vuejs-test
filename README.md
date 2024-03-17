@@ -18,4 +18,4 @@ You can modify this project as you see fit to match a "production ready" state
 ## How to run the project
 1. Clone the project or download the zip file
 2. In project's folder, run `npm install` in a terminal to install the dependencies
-3. Run `npm run dev start` to start the project
+3. Run `npm run dev` to start the project
